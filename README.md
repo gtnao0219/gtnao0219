@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm a software engineer in Japan.  
+I’m currently working on primeNumber Inc.
+
+### Skills
+#### Language
+* Ruby, JavaScript, TypScript (well)
+* Golang, Java (normal)
+* Rust, C++ (learning)
+
+#### Framework, Middleware, CloudService, Library ...
+* RubyOnRails, React, Docker, k8s, AWS, GCP, Embulk, Fluentd ...
+
 <!--
 **gtnao0219/gtnao0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
